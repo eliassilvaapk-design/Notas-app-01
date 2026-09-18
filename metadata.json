@@ -1,0 +1,8 @@
+{
+  "name": "Remix Notas Autoexcluintes 02",
+  "description": "Aplicativo moderno de notas com prazo de validade, autoexclusão automática e lixeira, 100% gratuito e sem anúncios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
