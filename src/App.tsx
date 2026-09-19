@@ -623,8 +623,8 @@ export default function App() {
             className="py-1.5 px-3 rounded-xl font-bold text-xs flex items-center space-x-1.5 shadow-sm shrink-0 border bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 border-emerald-200 dark:border-emerald-900/50"
           >
             <ShieldCheck className="w-3.5 h-3.5 text-emerald-500" />
-            <span className="hidden sm:inline">Versão Gratuita & Completa</span>
-            <span className="sm:hidden">Gratuito</span>
+            <span className="hidden sm:inline">Versão Completa</span>
+            <span className="sm:hidden">Versão Completa</span>
           </div>
         </div>
       </header>
@@ -933,7 +933,7 @@ export default function App() {
             </span>
             <div className="flex items-center space-x-1.5 font-bold text-slate-700 dark:text-slate-200">
               <ShieldCheck className="w-4 h-4 text-emerald-500" />
-              <span>Acesso Gratuito e Completo</span>
+              <span>Acesso Completo</span>
             </div>
             <div className="pt-2 text-[10px] text-slate-400 dark:text-slate-500 space-y-1">
               <p>• Notas fixadas ilimitadas</p>
